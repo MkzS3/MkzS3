@@ -1,11 +1,8 @@
 ## Bem-vindo(a) ao perfil do MK ☕
 
- <div>
-   <a href="https://github.com/MkzS3">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MK&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK&layout=compact&langs_count=6&theme=highcontrast"/>
-</div>
-    
+Me chamo Murilo, mas pode me chamar de MK.
+Atualmente estou cursando a matéria de Desenvolvimento Web e buscando evoluir cada vez mais na área.
+Procuro me tornar um programador melhor a cada dia, aprendendo na prática, errando, corrigindo e seguindo em frente 🚀☕
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
